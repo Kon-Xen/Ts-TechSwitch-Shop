@@ -1,0 +1,8 @@
+namespace Warehouse
+{
+    class WareHouse
+    {
+        
+    }
+    
+}

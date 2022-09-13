@@ -1,0 +1,8 @@
+namespace Shop
+{
+    class Shop
+    {
+
+    }
+
+}
